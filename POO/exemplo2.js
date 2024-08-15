@@ -1,4 +1,4 @@
-let pessoa = "Beatriz"
+let pessoa = "Lughettis Dev";
 
 const pessoaObjeto = new Object();
 
